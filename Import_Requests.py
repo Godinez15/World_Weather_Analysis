@@ -1,0 +1,2 @@
+import requests
+request.__version__
